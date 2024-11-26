@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradipghetiya&show_icons=true&hide_border=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipghetiya&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilbloch71&show_icons=true&hide_border=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbloch71&layout=compact&theme=radical">
 </p>
 
 ---
@@ -63,14 +63,14 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradipghetiya&theme=radical&no-frame=true&margin-w=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilbloch71&theme=radical&no-frame=true&margin-w=15">
 </p>
 
 ---
 
 ## 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{pradipghetiya}/count.svg" alt="Pradip's visitor count">
+  <img src="https://profile-counter.glitch.me/{sahilbloch71}/count.svg" alt="Sahil's visitor count">
 </p>
 
 ---
@@ -84,7 +84,7 @@
 
 ## 📜 Personal Information
 - 🔗 Resume
-- 📧 Reach me at: pradipghetiya@gmail.com
-- 🌐 Personal Portfolio: pradipghetiya.online
+- 📧 Reach me at: sahilbloch71@gmail.com
+
 
 ## 🌱 Learning Never Stops 🚀
