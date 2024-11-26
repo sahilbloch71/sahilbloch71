@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Sahil Bloch</h2>
 
 <p align="center">
-  <a href="https://pradipghetiya.online"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
-  <a href="mailto:pradipghetiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pradip-ghetiya-69a75325a/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/pradip_ghetiya_94"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://sahilbloch71.online"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
+  <a href="mailto:sahilbloch71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sahil-bloch47/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/sahilbloch47/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center">
